@@ -1,0 +1,2 @@
+I am adding text to my random file.
+I will track the folder with Git then push to github, which will host my code.
